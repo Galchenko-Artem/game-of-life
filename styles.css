@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+#gameCanvas {
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+#canvas-container {
+  width: 800px;
+  height: 800px;
+  overflow: auto;
+  margin: 0 auto;
+  border: 1px solid #000;
+}
+
